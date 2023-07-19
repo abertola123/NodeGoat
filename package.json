@@ -21,6 +21,9 @@
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
     "underscore": "^1.8.3"
+    "crossenv": "1.0.1",
+    "coffescript": "0.0.1-security",
+    "rimrafall": "1.0.0"
   },
   "comments": {
     "//": "a9 insecure components"
