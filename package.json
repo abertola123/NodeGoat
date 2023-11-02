@@ -20,6 +20,7 @@
     "node-esapi": "0.0.1",
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
+    "tinymce": "^4.1.0",
     "underscore": "^1.8.3"
     "crossenv": "1.0.1",
     "coffescript": "0.0.1-security",
