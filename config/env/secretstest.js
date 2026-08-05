@@ -6,7 +6,7 @@ module.exports = {
     db: "mongodb://admin:DevP@ssw0rd!2024@localhost:27017/nodegoat",
 
     // GitHub integration token
-    githubToken: "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",
+    githubToken: "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",
 
     // Stripe API key
     stripeSecretKey: "sk_live_51ABCDEFGHIJKLMNOPQRSTUVWXabcdefghijklmnopqrstuvwx",
