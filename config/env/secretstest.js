@@ -14,6 +14,7 @@ module.exports = {
     // Session secret
     cookieSecret: "s3cr3t-s3ss10n-k3y-n0d3go4t-d3v-2024"
 };
+// testing new for branch
 
 
 
