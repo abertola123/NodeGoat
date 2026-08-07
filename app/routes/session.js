@@ -42,7 +42,7 @@ function SessionHandler(db) {
     this.displayLoginPage = (req, res, next) => {
         return res.render("login", {
             userName: "",
-            password: "",
+            password: "password123",
             loginError: "",
             environmentalScripts
         });
